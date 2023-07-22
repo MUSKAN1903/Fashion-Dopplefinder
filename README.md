@@ -56,7 +56,7 @@ The Project is inspired by the research paper published by Myntra.
 > - We utilized transfer learning with the ResNet50 model for a new task. The data was pre-processed, and the ResNet50 model was used as a starting point.
 > - Additional layers were added to fine-tune the model specifically for the current task. By keeping the ResNet50 weights frozen and updating the new layers, the model adapted its learned features effectively for the new task.
 >   
-> ![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/e723ad03-3493-4125-b74f-bedb180267d8)
+>   ![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/e723ad03-3493-4125-b74f-bedb180267d8)
 
 ### DATASET
 > - The Dataset is taken from Kaggle [Fashion Product Images Dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset).
