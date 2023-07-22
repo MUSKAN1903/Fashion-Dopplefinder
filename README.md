@@ -56,7 +56,7 @@ The Project is inspired by the research paper published by Myntra.
 > - Additional layers were added to fine-tune the model specifically for the current task. By keeping the ResNet50 weights frozen and updating the new layers, the model adapted its learned features effectively for the new task.
 > ![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/e723ad03-3493-4125-b74f-bedb180267d8)
 
-DATASET
+### DATASET
 > - The Dataset is taken from Kaggle [Fashion Product Images Dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset).
 > - The dataset was too large for the system to handle,so the smaller version is used - [Fashion Product Images (Small)](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)
 > - The dataset contains 44k products with multiple category labels, descriptions and images.
@@ -65,11 +65,16 @@ DATASET
 > ![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/bfc29745-8fa8-42aa-9e8b-82fcdb17788f)
 
 
-Recommendation Generation
+### Recommendation Generation
 > - To generate recommendations, our proposed approach uses Sklearn Nearest neighbors.
 > - This allows us to find the nearest neighbors for the given input image.
 > - The similarity measure used in this Project is the Euclidean distance measure.
 > - The top 5 recommendations are extracted from the database and their images are displayed.
+
+### Future Scope
+> - Integrate models for object, pose, and gender detection to enhance the fashion recommendation system.
+> - Implement text-based search functionality to allow users to search for specific fashion items or styles.
+> - Connect the web app with an e-commerce website to enable direct shopping for recommended fashion items.
 
 
 
