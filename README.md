@@ -74,11 +74,11 @@ The Project is inspired by the research paper published by Myntra.
 > - The top 5 recommendations are extracted from the database and their images are displayed.
 
 ### Few Glimpes of the project
-![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/9dcd16f6-34a5-41e4-8860-8eb06173ae3a)
-![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/d0d56f00-7630-4458-87fe-430ed6c44396)
-![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/48751f4c-e028-4576-b252-6fe3e5dd587e)
-![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/6330c7dc-9b7b-4530-b19c-616f0e0d0062)
-![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/7578488d-bffb-4fa4-96c4-5aa9497e1e0a)
+![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/9decf1df-fe43-47a6-a1f3-8d8e7548e27a)
+![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/2cbcca1a-61ed-4e96-8c64-72e360def295)
+![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/048cfce9-1952-443a-b5c9-1c5b18472f56)
+![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/cae43e7c-68ea-42b4-9e66-859607c73e18)
+![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/e7f39823-0125-4d9a-9b89-f302ddcedbb7)
 
 ### Future Scope
 > - Integrate models for object, pose, and gender detection to enhance the fashion recommendation system.
