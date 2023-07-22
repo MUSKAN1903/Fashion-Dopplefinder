@@ -5,7 +5,7 @@ Ever looked at someone stylish and wondered if you could ever dress like that?
 - A robust, effective, and efficient recommendation system for fashion items has the potential to boost revenue, enhance customer engagement, and improve overall shopping experiences.
 - Thanks to computer vision advancements, you can now recreate the style of your favorite celebrity by simply using an image of their outfit or look.
 
-## Ecommerce Fashion Industry: Statistics, Trends & Strategy
+## Fashion Industry: Statistics, Trends & Strategy
 
 ### - The E-Commerce Fashion Revolution
 - Over the past few years, the Fashion Industry has experienced a remarkable surge in E-Commerce, transforming the way people shop for clothing, accessories, and style essentials.
@@ -14,8 +14,8 @@ Ever looked at someone stylish and wondered if you could ever dress like that?
 
 ![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/7b6316fc-64ac-429d-8395-6ede3321c48c)
 
-### - From Inspiration to Purchase: Unraveling Social Media's Role in Consumer Behavior
-- Nearly one-third (29%) of consumers find inspiration for their purchases through social media platforms. Influencers, brand ads, and user-generated content play a significant role in shaping their shopping decisions.
+### From Inspiration to Purchase: Unraveling Social Media's Role in Consumer Behavior
+> - Nearly one-third (29%) of consumers find inspiration for their purchases through social media platforms. Influencers, brand ads, and user-generated content play a significant role in shaping their shopping decisions.
 - Social media's impact on shopping has turned it into a powerful tool for brands to connect with potential customers, creating a virtual shopping mall where captivating visuals and relatable experiences lead to more purchases.
 - This shift has transformed how people shop and engage with products, making social media a key player in modern consumer behavior.
 ![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/1412006f-c92b-4244-8e90-768e93873e46)
