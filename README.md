@@ -1,4 +1,5 @@
-![Pastel Brush Strokes Beauty Makeup Facebook Cover](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/afc759ea-a6e4-4f75-ac51-937839622319)
+![Pastel Brush Strokes Beauty Makeup Facebook Cover (1)](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/dd6277dc-afa8-4dfa-9239-b00d00e69553)
+
 
 # Fashion Dopplefinder : Discover Similar Fashion Picks
 Ever looked at someone stylish and wondered if you could ever dress like that?
