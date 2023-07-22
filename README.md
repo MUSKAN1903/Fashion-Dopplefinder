@@ -73,6 +73,13 @@ The Project is inspired by the research paper published by Myntra.
 > - The similarity measure used in this Project is the Euclidean distance measure.
 > - The top 5 recommendations are extracted from the database and their images are displayed.
 
+### Few Glimpes of the project
+![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/9dcd16f6-34a5-41e4-8860-8eb06173ae3a)
+![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/d0d56f00-7630-4458-87fe-430ed6c44396)
+![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/48751f4c-e028-4576-b252-6fe3e5dd587e)
+![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/6330c7dc-9b7b-4530-b19c-616f0e0d0062)
+![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/7578488d-bffb-4fa4-96c4-5aa9497e1e0a)
+
 ### Future Scope
 > - Integrate models for object, pose, and gender detection to enhance the fashion recommendation system.
 > - Implement text-based search functionality to allow users to search for specific fashion items or styles.
