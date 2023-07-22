@@ -37,10 +37,11 @@ Ever looked at someone stylish and wondered if you could ever dress like that?
 The Project is inspired by the research paper published by Myntra.
 > [Buy Me That Look: An Approach for Recommending Fashion Products](https://arxiv.org/pdf/2008.11638.pdf)
 ![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/6d4ff7b8-8bbb-4ffc-8218-05411af5e024)
-> The proposed method has undergone evaluation on Myntra (www.myntra.com), a prominent online fashion e-commerce platform.
-> The main objective of the method is to provide recommendations for similar fashion products based on a user query and the corresponding Product Display Page (PDP).
->  The recommendations are generated for the complete set of fashion articles worn by a model in the PDP's full-shot image, showcasing the model from head to toe.
->  What sets this method apart is its ability to suggest similar articles for all the fashion items worn by the model, going beyond just the primary article related to the user query. This approach adds novelty and strength to the recommendation process, enhancing the overall shopping experience for users on the platform.
+> - The proposed method has undergone evaluation on Myntra (www.myntra.com), a prominent online fashion e-commerce platform.
+> - The main objective of the method is to provide recommendations for similar fashion products based on a user query and the corresponding Product Display Page (PDP).
+> - The recommendations are generated for the complete set of fashion articles worn by a model in the PDP's full-shot image, showcasing the model from head to toe.
+> - What sets this method apart is its ability to suggest similar articles for all the fashion items worn by the model, going beyond just the primary article related to the user query.
+> - This approach adds novelty and strength to the recommendation process, enhancing the overall shopping experience for users on the platform.
 
 ### Approach & Implementation
 > - We can build two recommendation engines in this project. The first type is image based recommendation engine and second type is text based recommendation engine.
@@ -50,18 +51,21 @@ The Project is inspired by the research paper published by Myntra.
 > - In this project, we propose a system that uses Convolutional Neural Network and the Nearest neighbor backed recommender.
 > - The nearest neighbor’s algorithm is used to find the most relevant products based on the input image and recommendations are generated.
 > - The nearest neighbor’s algorithm is used to find the most relevant products based on the input image and recommendations are generated.
-> ![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/8681e71a-7f56-4865-a685-58682d996495)
-> -We utilized transfer learning with the ResNet50 model for a new task. The data was pre-processed, and the ResNet50 model was used as a starting point.
-> -Additional layers were added to fine-tune the model specifically for the current task. By keeping the ResNet50 weights frozen and updating the new layers, the model adapted its learned features effectively for the new task.
+> ![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/54a645e6-65a6-4779-985b-29c3bc4c79c5)
+
+> - We utilized transfer learning with the ResNet50 model for a new task. The data was pre-processed, and the ResNet50 model was used as a starting point.
+> - Additional layers were added to fine-tune the model specifically for the current task. By keeping the ResNet50 weights frozen and updating the new layers, the model adapted its learned features effectively for the new task.
 
 > ![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/e723ad03-3493-4125-b74f-bedb180267d8)
+
 DATASET
 > - The Dataset is taken from Kaggle [Fashion Product Images Dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset).
 > - The dataset was too large for the system to handle,so the smaller version is used - [Fashion Product Images (Small)](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)
 > - The dataset contains 44k products with multiple category labels, descriptions and images.
 > - The inventory is then run through the neural networks to classify and generate embeddings and the output is then used to generate recommendations. 
 > - The Figure shows a sample set of data
-![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/a4c33e31-2312-4d55-b516-9bbbea9473d6)
+> ![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/bfc29745-8fa8-42aa-9e8b-82fcdb17788f)
+
 
 Recommendation Generation
 > - To generate recommendations, our proposed approach uses Sklearn Nearest neighbors.
