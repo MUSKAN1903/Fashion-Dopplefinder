@@ -35,7 +35,10 @@ Ever looked at someone stylish and wondered if you could ever dress like that?
 
 ### Related Work
 The Project is inspired by the research paper published by Myntra.
-[Buy Me That Look: An Approach for Recommending Fashion Products](https://arxiv.org/pdf/2008.11638.pdf)
+[Buy Me That Look: An Approach for Recommending Fashion Products]
+> (https://arxiv.org/pdf/2008.11638.pdf)
+![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/6d4ff7b8-8bbb-4ffc-8218-05411af5e024)
+
 
 
 
