@@ -18,14 +18,16 @@ Ever looked at someone stylish and wondered if you could ever dress like that?
 > - Nearly one-third (29%) of consumers find inspiration for their purchases through social media platforms. Influencers, brand ads, and user-generated content play a significant role in shaping their shopping decisions.
 > - Social media's impact on shopping has turned it into a powerful tool for brands to connect with potential customers, creating a virtual shopping mall where captivating visuals and relatable experiences lead to more purchases.
 > - This shift has transformed how people shop and engage with products, making social media a key player in modern consumer behavior.
- ![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/1412006f-c92b-4244-8e90-768e93873e46)
+
+![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/1412006f-c92b-4244-8e90-768e93873e46)
 
 ### - From Gen Z to Baby Boomers: Social Media's Impact on Fashion Choices across different age groups
 > - A significant revelation in the world of online fashion shopping is that nearly half of shoppers attribute their last purchase to the influence of social media.
 > - Social media's influence on fashion shopping is a powerful force that resonates across generations. Among online fashion shoppers, a staggering 55.2% of Gen Z, 50.6% of Millennials, and 27.5% of Baby Boomers reveal that their latest purchases were inspired by content found on social platforms.
 > - From trendy styles showcased by influencers to engaging brand advertisements, social media's magnetic appeal drives consumers from diverse age groups to make fashion choices with just a scroll and a click.
 > - These figures emphasize the significant impact of social media in driving fashion purchases across different generations, making it a crucial factor for fashion brands and marketers to consider when targeting their audience.
- ![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/98c1edf4-c6cf-4a2a-ae17-43a75df0c3a8)
+
+![image](https://github.com/MUSKAN1903/Fashion-Dopplefinder/assets/70433658/98c1edf4-c6cf-4a2a-ae17-43a75df0c3a8)
 
 
 
